@@ -1,7 +1,7 @@
 {
   "name": "seif-portfolio",
   "private": true,
-  "homepage": "http://localhost:5174/Seif-Portfolio/#project",
+  "homepage": "https://siiifou.github.io/Seif-Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
